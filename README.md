@@ -2,27 +2,24 @@
 
 ## A responsive email template (work in progress)
 
-### Template built to meet the following specifications:
-- Adhere to UX and UI best practices (Status: testing)
-- Adhere to accessibility best practices (Status: testing)
-- Responsive (Status: testing)
-- max-width of 620px (Status: testing)
-- Allow 2 columns with images of 310px (Status: testing)
-- Allow 3 columns with images of 206px (Status: testing)
-- Full width borderless images (Status: testing)
-- Hi-DPI images (Status: testing)
-- Left-aligned content (Status: testing)
-- Unordered lists (Status: testing)
-- Image based checkmark lists (Status: testing)
-- Non-image spacer (Status: testing)
-- Navigation menu (Status: testing)
+### Template built to meet the following specifications
 
+- Adhere to UX best practices (Content First)
+- Accessibility
+- Fluid and Responsive (Hybrid)
+- max-width of 620px
+- 2 columns with images of 310px
+- 3 columns with images of 206px
+- Full width borderless images
+- Retina images
+- Left-aligned content
+- Unordered and ordered list
+- Image based checkmark list
+- Non-image spacer
+- Navigation menu
 
-### Issues to be fixed:
-- Gmail and inbox not responsive (Status: testing)
-- Outlook 2007+ nav menu spacer (Status: testing)
-- Outlook 2007+ (including high dpi) checklist out of bounds (Status: testing)
-- Telstra (Web client) nav menu (Status: testing)
-- Nexus nav menu overlap (Status: testing)
+### Hacks used
+
+- [HTML-Email-Hacks](https://github.com/FunWithEmail/HTML-Email-Hacks)
 
 Based on [Salted](https://github.com/rodriguezcommaj/salted) code, originally developed by [Kevin Mandeville](http://twitter.com/KEVINgotbounce) and cleaned up by [Jason Rodriguez](http://twitter.com/rodriguezcommaj).
