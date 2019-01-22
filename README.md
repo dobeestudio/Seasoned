@@ -19,5 +19,4 @@
 ### Credits
 
 - [HTML-Email-Hacks](https://github.com/FunWithEmail/HTML-Email-Hacks)
-
-Based on [Salted](https://github.com/rodriguezcommaj/salted) code, originally developed by [Kevin Mandeville](http://twitter.com/KEVINgotbounce) and cleaned up by [Jason Rodriguez](http://twitter.com/rodriguezcommaj).
+- Photography by Unsplash user [Vitchakorn Koonyosying](https://unsplash.com/@mggbox)
