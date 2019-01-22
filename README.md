@@ -1,24 +1,22 @@
-# Seasoned [![License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
+# Seasoned
 
-## A responsive email template (work in progress)
+## An MJML email template
 
-### Template built to meet the following specifications
+### Template built to meet the following requirements
 
+- Built using MJML
 - Adhere to UX best practices (Content First)
-- Accessibility
+- Accessible
 - Fluid and Responsive (Hybrid)
-- max-width of 620px
-- 2 columns with images of 310px
-- 3 columns with images of 206px
-- Full width borderless images
+- Max-width of 620px
+- 2 columns including an image
+- 3 columns with images
+- Full-width borderless images
 - Retina images
 - Left-aligned content
-- Unordered and ordered list
-- Image based checkmark list
-- Non-image spacer
-- Navigation menu
+- Image-based checkmark list
 
-### Hacks used
+### Credits
 
 - [HTML-Email-Hacks](https://github.com/FunWithEmail/HTML-Email-Hacks)
 

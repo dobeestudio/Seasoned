@@ -1,0 +1,134 @@
+<mjml lang="en">
+
+  <mj-head>
+    <mj-title>Thanks for subscribing!</mj-title>
+    <mj-preview>Get 20% OFF all menu items at Seasoned restaurant!</mj-preview>
+    <mj-breakpoint width="588px" />
+    <mj-style>
+      @media only screen and (max-width: 588px){
+      .hide_mobile {display: none !important;}
+      }
+      @media only screen and (min-width: 589px){
+      .social_wide {float: right !important;}
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-all align="left" font-family="Helvetica Neue, Arial, sans-serif"></mj-all>
+      <mj-text line-height="150%"></mj-text>
+      <mj-section padding="0"></mj-section>
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body width="620px" background-color="#fff">
+
+    <mj-section background-color="#f2be54">
+      <mj-column>
+        <mj-image align="center" padding-top="5%" width="98px" src="images/logo_seasoned.png" alt="Seasoned logo" />
+        <mj-text font-size="42px" font-weight="700" line-height="100%" align="center" color="#153e5c">SEASONED
+        </mj-text>
+        <mj-text padding-bottom="30px" font-size="38px" font-weight="100" line-height="100%" align="center" color="#153e5c">Thanks for subscribing!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#153e5c">
+      <mj-column>
+        <mj-text padding="20px" font-size="18px" font-weight="300" align="left" color="#f2be54"><strong>Thanks for subscribing to our newsletter Jane. We hope to see you soon!</strong><br /><br />Seasoned is a modern, affordable and casual restaurant. As a subscriber, we will keep you up-to-date with our latest specials and menu offerings.
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="hide_mobile">
+        <mj-image padding="0" width="310px" fluid-on-mobile="true" align="center" src="images/pic_310x310_1.png" alt="Our signature spaghetti" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section direction="rtl" background-color="#f2be54">
+      <mj-column>
+        <mj-text padding-top="20px" font-size="18px" font-weight="700" line-height="100%" align="left" color="#153e5c">Seasoned Restaurant
+        </mj-text>
+        <mj-table font-size="18px" color="#153e5c" cellpadding="5" padding="5px 0 0 15px">
+          <tr>
+            <td width="24" height="24" align="left" style="padding-left: 15px;" valign="top"><img src="images/checkmark.png" width="24" height="24" alt="checkmark"></td>
+            <td align="left" valign="top">
+              <span>
+                Zero-waste
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td width="24" height="24" align="left" style="padding-left: 15px;" valign="top"><img src="images/checkmark.png" width="24" height="24" alt="checkmark"></td>
+            <td align="left" valign="top">
+              <span>
+                Local produce
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td width="24" height="24" align="left" style="padding-left: 15px;" valign="top"><img src="images/checkmark.png" width="24" height="24" alt="checkmark"></td>
+            <td align="left" valign="top">
+              <span>
+                Vegan friendly
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td width="24" height="24" align="left" style="padding-left: 15px;" valign="top"><img src="images/checkmark.png" width="24" height="24" alt="checkmark"></td>
+            <td align="left" valign="top">
+              <span>
+                Affordable
+              </span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-button border-radius="8px" padding-bottom="20px" href="https://github.com/roblouw/seasoned" font-size="18px" font-weight="700" background-color="#ed5560" color="#f2be54">MAKE A RESERVATION</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0px" width="310px" fluid-on-mobile="true" align="center" src="images/pic_310x310_2.png" alt="Leaf salad bowl" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#153e5c">
+      <mj-column>
+        <mj-text padding="30px 20px" line-height="120%" font-size="38px" font-weight="100" align="left" color="#f2be54">Psst… As a new subscriber, you get <strong>20% OFF</strong> all menu items. <strong>Offer ends this Sunday.</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#153e5c">
+      <mj-column>
+        <mj-image padding="0px" width="207px" fluid-on-mobile="true" align="center" src="images/pic_206x206_1.png" alt="Our signature tapas" />
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0px" width="207px" fluid-on-mobile="true" align="center" src="images/pic_206x206_2.png" alt="Blueberry cocktail" />
+      </mj-column>
+
+      <mj-column css-class="hide_mobile">
+        <mj-image padding="0px" width="207px" fluid-on-mobile="true" align="center" src="images/pic_206x206_3.png" alt="Rice bowl" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-bottom="20px" background-color="#f2be54">
+      <mj-column>
+        <mj-text font-size="14px" font-weight="400" align="left" padding="20px 0 0 20px" color="#153e5c"><a href="https://github.com/roblouw/seasoned" style="color: #153e5c">Unsubscribe</a> from this newsletter
+        </mj-text>
+        <mj-text padding="10px 0 0 20px" font-size="14px" font-weight="700" align="left" color="#153e5c">Seasoned Restaurant & Bar
+        </mj-text>
+        <mj-text padding="0 0 0 20px" font-size="14px" font-weight="400" align="left" color="#153e5c">13 Grimmauld Place, London, UK
+        </mj-text>
+        <mj-text padding="0 0 0 20px" font-size="14px" font-weight="400" align="left" color="#153e5c">020 7946 0999
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-social css-class="social_wide" padding="15px" inner-padding="5px" align="center" icon-size="32px">
+          <mj-social-element href="https://facebook.com" src="images/facebook.png">
+          </mj-social-element>
+          <mj-social-element href="https://instagram.com" src="images/instagram.png">
+          </mj-social-element>
+          <mj-social-element href="https://twitter.com" src="images/twitter.png">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
