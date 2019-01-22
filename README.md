@@ -18,5 +18,6 @@
 
 ### Credits
 
+- [MJML](https://mjml.io)
 - [HTML-Email-Hacks](https://github.com/FunWithEmail/HTML-Email-Hacks)
 - Photography by Unsplash user [Vitchakorn Koonyosying](https://unsplash.com/@mggbox)
