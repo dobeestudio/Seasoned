@@ -14,7 +14,7 @@
 - Full-width borderless images
 - Retina images
 - Left-aligned content
-- Image-based checkmark list\
+- Image-based checkmark list
 
 [View it Live](https://mjml.io/try-it-live/BJoNn2E7V)
 
